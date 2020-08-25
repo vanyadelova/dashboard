@@ -35,10 +35,7 @@ Install project dependencies, Start the server and then open localhost:3000 in y
 
 ## Technologies used
 
-- Express
-- Sequelize
-- Nodemon
-- bcrypt
-- jsonwebtoken
-- body-parser
+- Firebase
+- ReactJS
+- UIkit
 
