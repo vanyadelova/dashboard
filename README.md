@@ -35,7 +35,7 @@ Install project dependencies, Start the server and then open localhost:3000 in y
 
 ## Technologies used
 
-- Firebase
-- ReactJS
-- UIkit
+- [Firebase Realtime Database](https://firebase.google.com/docs/database/web/start)
+- [ReactJS](https://reactjs.org/)
+- [UIkit](https://getuikit.com/)
 
