@@ -20,7 +20,7 @@ It is a ReactJS Web-App using Firebase as a backend database..
 
 Clone the repository.
 ```
-$ git clone https://github.com/vanyadelova/node.js-task.git
+$ git clone git@github.com:vanyadelova/dashboard.git
 ```
 Install and start the app.
 
