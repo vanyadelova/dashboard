@@ -1,0 +1,70 @@
+
+
+body{
+  background-color: rgba(0, 238, 255, 0.226);
+}
+
+.cc {
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pos{
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+
+
+}
+
+.pos h1{
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+.card{
+  border-radius: 1.2%;
+  box-shadow: 0.1px 3px 5px 1px grey;
+}
+
+.fund_name {
+  font-family: 'Lobster', cursive;
+  font-weight: 5rem;
+  font-size: 1.5rem;
+
+}
+
+.index {
+  font-family: 'Lobster', cursive;
+  font-weight: 5rem;
+  font-size: 1.5rem;
+
+}
+
+.nb_alerts
+.share_class_id
+.report_status
+.share_class_name
+.subfund_id
+.subfund_name
+
+.fund_id {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2rem;
+  font-weight: 5rem;
+}
+
+.navigation {
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.navigation a{
+  font-size: 2rem;
+}
+
+.nav {
+  padding-top: 20px;
+  padding-bottom: 70px;
+}
