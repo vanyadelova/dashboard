@@ -35,12 +35,42 @@ body {
   font-size: 1.5rem;
 }
 
-.nb_alerts
-  .share_class_id
-  .report_status
-  .share_class_name
-  .subfund_id
-  .subfund_name
+.date {
+  font-family: "Lobster", cursive;
+  font-weight: 5rem;
+  font-size: 1.5rem;
+}
+
+.nb_alerts {
+  font-family: "Lobster", cursive;
+  font-weight: 5rem;
+  font-size: 1.5rem;
+}
+  .share_class_id {
+    font-family: "Lobster", cursive;
+    font-weight: 5rem;
+    font-size: 1.5rem;
+  }
+  .report_status {
+    font-family: "Lobster", cursive;
+    font-weight: 5rem;
+    font-size: 1.5rem;
+  }
+  .share_class_name {
+    font-family: "Lobster", cursive;
+    font-weight: 5rem;
+    font-size: 1.5rem;
+  }
+  .subfund_id {
+    font-family: "Lobster", cursive;
+    font-weight: 5rem;
+    font-size: 1.5rem;
+  }
+  .subfund_name {
+    font-family: "Lobster", cursive;
+    font-weight: 5rem;
+    font-size: 1.5rem;
+  }
   .fund_id {
   font-family: "Abril Fatface", cursive;
   font-size: 2rem;
