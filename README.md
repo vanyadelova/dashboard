@@ -1,4 +1,5 @@
 # 💨 Dashboard using ReactJS and Firebase 💨 
+## [DEMO](http://ec2-3-129-209-179.us-east-2.compute.amazonaws.com/)
 
 ## What this project is about
 This is my own attempt at the NGT's Frontend Developer Test. The goal of this test is to create a small dashboard with a page that displays a summary of multiple
